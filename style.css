@@ -9,7 +9,7 @@ body {
   height: 1500px;
   margin: 0 auto;
   overflow: hidden;
-  background-image: linear-gradient(to right, #e35f43 0%, #d26ea5 100%);
+  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 }
 
 .wrapper-bg {
@@ -43,6 +43,13 @@ body {
 }
 
 .desktop-screenshot-wrapper.desktop-screenshot-wrapper_single {
+  top: 345px;
+  top: 450px;
+  width: 85%;
+  left: 7.5%;
+}
+
+.desktop-screenshot-wrapper.desktop-screenshot-wrapper_single-big {
   top: 30px;
   width: 85%;
   left: 7.5%;
